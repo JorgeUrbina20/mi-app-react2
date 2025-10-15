@@ -1,0 +1,7 @@
+.logoWhat{
+    font-size: 4rem;
+    cursor: pointer;
+}
+.logoWhat:active{
+    transform: scale(0.9);
+}
