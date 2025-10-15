@@ -5,10 +5,11 @@ import Navbar from "./navbar";
 import 'bootstrap/dist/css/bootstrap.min.css';//Estilos para terminar de configurar y utilizar ReactBootstrap
 
 function App() {
+
   return (
     <Container fluid>
       <Navbar />
-      </Container>
+    </Container>
   )
 }
 
